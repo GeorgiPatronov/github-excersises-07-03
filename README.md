@@ -1,2 +1,8 @@
 # github-excersises-07-03
+
 And now we make a conflict!
+
+Repo made for excersises
+Making some changes here
+
+And now the conflict is solved!!!
