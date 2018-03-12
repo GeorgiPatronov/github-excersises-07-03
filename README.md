@@ -6,3 +6,4 @@ Repo made for excersises
 Making some changes here
 
 And now the conflict is solved!!!
+We resolved the problem!!!
