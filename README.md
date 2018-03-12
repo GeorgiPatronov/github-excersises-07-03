@@ -7,3 +7,5 @@ Making some changes here
 
 And now the conflict is solved!!!
 We resolved the problem!!!
+Hello, again!!!
+The develop team!
